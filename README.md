@@ -4,7 +4,7 @@ CREATING A WEB PLATFORM FOR HOSPITAL TO STORE PATIENTS' DATA AS RECORDS FOR T
 
 Develop a web Platform for Hospitals that serves as a platform to maintain details:
 <ul>
-       <li> PERSONAL DATA 
+       <li>  PERSONAL DATA 
        <li> MEDICAL HISTORY 
        <li> APPOINTMENT DATES
        <li> SYMPTOMS
