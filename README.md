@@ -11,5 +11,5 @@ Develop a web Platform for Hospitals that serves as a platform to maintain detai
 of Patients who visit for consultations. And let the platform be available for the physicians for creating, viewing patients' data.
 The doctors should further be able to access data of required data of required patients using search engine.
 
-![image](https://user-images.githubusercontent.com/72692879/155333524-2405836e-95c0-468a-a913-a13bb3f51976.png)
+
 
